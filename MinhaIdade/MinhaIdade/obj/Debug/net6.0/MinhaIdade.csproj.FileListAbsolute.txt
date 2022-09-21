@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\bin\Debug\net6.0\MinhaIdade.exe
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\bin\Debug\net6.0\MinhaIdade.deps.json
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\bin\Debug\net6.0\MinhaIdade.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\bin\Debug\net6.0\MinhaIdade.dll
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\bin\Debug\net6.0\MinhaIdade.pdb
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.dll
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\refint\MinhaIdade.dll
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.pdb
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\MinhaIdade.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\MinhaIdade\MinhaIdade\obj\Debug\net6.0\ref\MinhaIdade.dll
