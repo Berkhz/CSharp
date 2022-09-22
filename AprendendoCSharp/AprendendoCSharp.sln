@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{4FE759F6-FEB5-44F4-8467-2AD669DFAEFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variáveis", "Variáveis\Variáveis.csproj", "{A0FCFC55-8197-4CE2-966E-C7063B83D2C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variáveis", "Variáveis\Variáveis.csproj", "{A0FCFC55-8197-4CE2-966E-C7063B83D2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variávelPontoFlutuante", "variávelPontoFlutuante\variávelPontoFlutuante.csproj", "{E8725B17-7866-4890-8178-FF3954EC5DFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A0FCFC55-8197-4CE2-966E-C7063B83D2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0FCFC55-8197-4CE2-966E-C7063B83D2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0FCFC55-8197-4CE2-966E-C7063B83D2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8725B17-7866-4890-8178-FF3954EC5DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8725B17-7866-4890-8178-FF3954EC5DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8725B17-7866-4890-8178-FF3954EC5DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8725B17-7866-4890-8178-FF3954EC5DFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

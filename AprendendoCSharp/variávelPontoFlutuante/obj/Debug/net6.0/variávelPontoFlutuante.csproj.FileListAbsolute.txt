@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\bin\Debug\net6.0\variávelPontoFlutuante.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\bin\Debug\net6.0\variávelPontoFlutuante.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\bin\Debug\net6.0\variávelPontoFlutuante.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\bin\Debug\net6.0\variávelPontoFlutuante.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\bin\Debug\net6.0\variávelPontoFlutuante.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\refint\variávelPontoFlutuante.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\variávelPontoFlutuante.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\variávelPontoFlutuante\obj\Debug\net6.0\ref\variávelPontoFlutuante.dll
