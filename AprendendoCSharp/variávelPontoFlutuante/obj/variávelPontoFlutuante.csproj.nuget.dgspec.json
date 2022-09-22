@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj",
+        "projectName": "variávelPontoFlutuante",
+        "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj",
         "packagesPath": "C:\\Users\\kauan.bertalha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauan.bertalha\\AppData\\Roaming\\NuGet\\NuGet.Config",

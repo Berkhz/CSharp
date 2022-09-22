@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\Variáveis\\Variáveis.csproj",
-      "projectName": "Variáveis",
-      "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\Variáveis\\Variáveis.csproj",
+      "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj",
+      "projectName": "variávelPontoFlutuante",
+      "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\kauan.bertalha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\Variáveis\\obj\\",
+      "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\AprendendoCSharp\\variávelPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kauan.bertalha\\AppData\\Roaming\\NuGet\\NuGet.Config",
