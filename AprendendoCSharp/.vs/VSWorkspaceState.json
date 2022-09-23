@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\variávelPontoFlutuante"
   ],
-  "SelectedNode": "\\AprendendoCSharp.sln",
+  "SelectedNode": "\\variávelPontoFlutuante\\variávelPontoFlutuante.csproj",
   "PreviewInSolutionExplorer": false
 }
