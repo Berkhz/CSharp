@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\bin\Debug\net6.0\conversõesTipos.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\bin\Debug\net6.0\conversõesTipos.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\bin\Debug\net6.0\conversõesTipos.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\bin\Debug\net6.0\conversõesTipos.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\bin\Debug\net6.0\conversõesTipos.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\refint\conversõesTipos.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\conversõesTipos.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\conversõesTipos\obj\Debug\net6.0\ref\conversõesTipos.dll
