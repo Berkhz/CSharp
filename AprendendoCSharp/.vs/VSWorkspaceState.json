@@ -1,5 +1,12 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\caracteresTexto",
+    "\\conversõesTipos",
+    "\\HelloWorld",
+    "\\Variáveis",
+    "\\variávelPontoFlutuante"
+  ],
   "SelectedNode": "\\AprendendoCSharp.sln",
   "PreviewInSolutionExplorer": false
 }
