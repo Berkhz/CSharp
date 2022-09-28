@@ -27,6 +27,19 @@ class Programa
         letra = (char)(77 + 1);
         Console.WriteLine(letra);
 
+        string primeiraFrase = "Primeira variável string"; //string: recebe caracteres na sua variável
+        Console.WriteLine(primeiraFrase);
+
+        string vazia = "";
+        Console.WriteLine(vazia);
+
+        string cursos = @"Curso de C#: 
+        - Introdução
+        - Aprendendo a Linguagem
+        - Primeiro Projeto"; //@: permite listar os itens na string
+
+        Console.WriteLine(cursos);
+
         Console.WriteLine("Tecle enter para sair...");
         Console.ReadLine();
     }
