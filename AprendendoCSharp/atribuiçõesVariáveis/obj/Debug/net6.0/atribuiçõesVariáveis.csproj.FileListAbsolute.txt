@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\bin\Debug\net6.0\atribuiçõesVariáveis.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\bin\Debug\net6.0\atribuiçõesVariáveis.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\bin\Debug\net6.0\atribuiçõesVariáveis.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\bin\Debug\net6.0\atribuiçõesVariáveis.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\bin\Debug\net6.0\atribuiçõesVariáveis.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\refint\atribuiçõesVariáveis.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\atribuiçõesVariáveis.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\atribuiçõesVariáveis\obj\Debug\net6.0\ref\atribuiçõesVariáveis.dll

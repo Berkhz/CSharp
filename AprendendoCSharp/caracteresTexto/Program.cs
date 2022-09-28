@@ -6,7 +6,7 @@ class Programa
     {
         Console.WriteLine("Executando o projeto 5 - Caracteres e Textos");
 
-        char letra = 'a';
+        char letra = 'a'; //char: guarda um caracter da tabela ascii
         Console.WriteLine(letra);
 
         letra = (char)65;
