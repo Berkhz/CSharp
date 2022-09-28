@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\bin\Debug\net6.0\condicionais.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\bin\Debug\net6.0\condicionais.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\bin\Debug\net6.0\condicionais.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\bin\Debug\net6.0\condicionais.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\bin\Debug\net6.0\condicionais.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\refint\condicionais.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\condicionais.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\condicionais\obj\Debug\net6.0\ref\condicionais.dll
