@@ -9,21 +9,18 @@ class Programa
         int idadeZezinho = 17;
         int qtdPessoas = 2;
 
-        if (idadeZezinho >= 18) //if: condição "se"
+        bool acompanhado = qtdPessoas > 1;
+        bool grupo = true;
+
+        if (idadeZezinho >= 18 || grupo)
         {
             Console.WriteLine("Liberado!");
         }
-        else //else: condição "se não"
+        else
         {
-            if (qtdPessoas > 0)
-            {
-                Console.WriteLine("Ele está acompanhado. Pode entrar!");
-            }
-            else
-            {
-                Console.WriteLine("Barrado!");
-            }
+            Console.WriteLine("Barrado!");
         }
+
 
         Console.WriteLine("Tecle enter para sair...");
         Console.ReadLine();
