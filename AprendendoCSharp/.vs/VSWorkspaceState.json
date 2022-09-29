@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\caracteresTexto",
-    "\\conversõesTipos",
-    "\\HelloWorld",
-    "\\Variáveis",
-    "\\variávelPontoFlutuante"
+    "\\escopo"
   ],
+  "SelectedNode": "\\escopo\\escopo.csproj",
   "PreviewInSolutionExplorer": false
 }
