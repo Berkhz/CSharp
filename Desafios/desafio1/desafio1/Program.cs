@@ -24,9 +24,5 @@ class Programa
         {
             Console.WriteLine("Você não declara IR");
         }
-
-
-
-
     }
 }
