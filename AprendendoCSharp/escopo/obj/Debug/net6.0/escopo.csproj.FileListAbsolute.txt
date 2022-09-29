@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\bin\Debug\net6.0\escopo.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\bin\Debug\net6.0\escopo.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\bin\Debug\net6.0\escopo.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\bin\Debug\net6.0\escopo.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\bin\Debug\net6.0\escopo.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\refint\escopo.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\escopo.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\escopo\obj\Debug\net6.0\ref\escopo.dll

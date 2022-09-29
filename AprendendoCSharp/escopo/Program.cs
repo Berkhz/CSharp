@@ -10,10 +10,21 @@ class Programa
         int qtdPessoas = 2;
 
         bool acompanhado = qtdPessoas > 1;
-        bool grupo = true;
 
-        if (idadeZezinho >= 18 || grupo)
+        string textoAdicional;
+
+        if (acompanhado == true) 
         {
+            textoAdicional = "Ele está acompanhado!";
+        }
+        else
+        {
+            textoAdicional = "Ele não está acompanhado!";
+        }
+
+        if (idadeZezinho >= 18 || acompanhado)
+        {
+            Console.WriteLine(textoAdicional);
             Console.WriteLine("Liberado!");
         }
         else
