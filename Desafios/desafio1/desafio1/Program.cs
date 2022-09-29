@@ -4,9 +4,10 @@ class Programa
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Insira seu salário");
+        Console.WriteLine("Bem vindo ao consultor de imposto de renda (IR)");
+        Console.WriteLine("Insira seu salário: ");
         Console.ReadLine();
-        double salario = 0;
+        double salario = 800.0;
 
         if (salario >= 1900.0 && salario <= 2800.0)
         {
