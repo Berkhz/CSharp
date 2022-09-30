@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "variávelPontoFlutuante", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "caracteresTexto", "caracteresTexto\caracteresTexto.csproj", "{2244FDDF-1361-4755-ACFD-993E2D0FC885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atribuiçõesVariáveis", "atribuiçõesVariáveis\atribuiçõesVariáveis.csproj", "{CCE0FD8B-FFE2-45EA-BBCB-F920A8C3AC29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atribuiçõesVariáveis", "atribuiçõesVariáveis\atribuiçõesVariáveis.csproj", "{CCE0FD8B-FFE2-45EA-BBCB-F920A8C3AC29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionais", "condicionais\condicionais.csproj", "{D4F93903-D2AD-4205-ADDB-95F5A0A87E08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "condicionais", "condicionais\condicionais.csproj", "{D4F93903-D2AD-4205-ADDB-95F5A0A87E08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "condicionaisParte2", "condicionaisParte2\condicionaisParte2.csproj", "{46A2A10E-8E81-46C2-9E65-3A064282A68C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "condicionaisParte2", "condicionaisParte2\condicionaisParte2.csproj", "{46A2A10E-8E81-46C2-9E65-3A064282A68C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escopo", "escopo\escopo.csproj", "{D92B61E2-DE48-450C-AFD4-601BDE215B98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "escopo", "escopo\escopo.csproj", "{D92B61E2-DE48-450C-AFD4-601BDE215B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraPoupança", "calculadoraPoupança\calculadoraPoupança.csproj", "{6BC11494-7390-4306-8DAA-729BFDF938A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D92B61E2-DE48-450C-AFD4-601BDE215B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D92B61E2-DE48-450C-AFD4-601BDE215B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D92B61E2-DE48-450C-AFD4-601BDE215B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC11494-7390-4306-8DAA-729BFDF938A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC11494-7390-4306-8DAA-729BFDF938A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC11494-7390-4306-8DAA-729BFDF938A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC11494-7390-4306-8DAA-729BFDF938A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
