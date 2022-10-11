@@ -25,7 +25,8 @@ class Programa
             investimento = investimento + investimento * 0.005;
             Console.WriteLine("No mês " + mes + " você acumulou R$" + investimento);
 
-            mes = mes + 1;
+            // mes = mes + 1;
+            mes += 1;
         }
 
         Console.WriteLine("Tecle enter para sair...");

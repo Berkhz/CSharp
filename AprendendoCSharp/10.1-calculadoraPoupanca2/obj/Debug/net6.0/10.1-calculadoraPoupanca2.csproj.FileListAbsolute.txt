@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\bin\Debug\net6.0\10.1-calculadoraPoupanca2.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\bin\Debug\net6.0\10.1-calculadoraPoupanca2.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\bin\Debug\net6.0\10.1-calculadoraPoupanca2.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\bin\Debug\net6.0\10.1-calculadoraPoupanca2.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\bin\Debug\net6.0\10.1-calculadoraPoupanca2.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\refint\10.1-calculadoraPoupanca2.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\10.1-calculadoraPoupanca2.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\10.1-calculadoraPoupanca2\obj\Debug\net6.0\ref\10.1-calculadoraPoupanca2.dll
