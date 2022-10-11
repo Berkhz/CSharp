@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.exe
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\refint\encadeandoFor.dll
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.pdb
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\AprendendoCSharp\encadeandoFor\obj\Debug\net6.0\ref\encadeandoFor.dll
