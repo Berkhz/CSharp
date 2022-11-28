@@ -6,4 +6,8 @@ contaDoAndre.numero_agencia = 15;
 contaDoAndre.conta = "1010-X";
 contaDoAndre.saldo = 100;
 
-Console.WriteLine("Saldo da conta do André = " + contaDoAndre.saldo);
+Console.WriteLine("Saldo da conta do André = " + contaDoAndre.saldo);]
+
+contaDoAndre.Depositar(100);
+
+Console.WriteLine("Saldo da conta do André pós depósito = " + contaDoAndre.saldo);]
