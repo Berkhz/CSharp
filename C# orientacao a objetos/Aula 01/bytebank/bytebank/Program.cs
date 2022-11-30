@@ -10,11 +10,16 @@ Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + " = " + contaD
 
 contaDoTitular.Depositar(418.41);
 
-Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + "pós depósito = " + contaDoTitular.saldo);
+Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + " pós depósito = " + contaDoTitular.saldo);
 
-contaDoTitular.Sacar(200);
-
-Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + "pós depósito = "  + contaDoTitular.saldo);
+if (contaDoTitular.Sacar(200) == true)
+{
+    Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + " pós saque = " + contaDoTitular.saldo);
+}
+else
+{
+    Console.WriteLine("Saldo insuficiente para realizar o saque!");
+}
 
 Console.WriteLine();
 
