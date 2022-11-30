@@ -17,5 +17,10 @@ namespace bytebank
         {
             this.saldo += valor;
         }
+
+        public void Sacar(double valor)
+        {
+            this.saldo -= valor;
+        }
     }
 }

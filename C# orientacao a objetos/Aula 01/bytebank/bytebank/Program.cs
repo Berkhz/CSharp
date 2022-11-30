@@ -1,13 +1,27 @@
 ﻿using bytebank;
 
-ContaCorrente contaDoAndre = new ContaCorrente();
-contaDoAndre.titular = "André Silva";
-contaDoAndre.numero_agencia = 15;
-contaDoAndre.conta = "1010-X";
-contaDoAndre.saldo = 100;
+ContaCorrente contaDoTitular = new ContaCorrente();
+contaDoTitular.titular = "Guilherme Felipe Henrique Pontes";
+contaDoTitular.numero_agencia = 18;
+contaDoTitular.conta = "1010-X";
+contaDoTitular.saldo = 774.06;
 
-Console.WriteLine("Saldo da conta do André = " + contaDoAndre.saldo);]
+Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + " = " + contaDoTitular.saldo);
 
-contaDoAndre.Depositar(100);
+contaDoTitular.Depositar(418.41);
 
-Console.WriteLine("Saldo da conta do André pós depósito = " + contaDoAndre.saldo);]
+Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + "pós depósito = " + contaDoTitular.saldo);
+
+contaDoTitular.Sacar(200);
+
+Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + "pós depósito = "  + contaDoTitular.saldo);
+
+Console.WriteLine();
+
+ContaCorrente conta = new ContaCorrente();
+Console.WriteLine($"Titular da conta: {contaDoTitular.titular}");
+Console.WriteLine($"Número da conta: {contaDoTitular.conta}");
+Console.WriteLine($"Agência: {contaDoTitular.numero_agencia}");
+Console.WriteLine($"Saldo R$ {String.Format("{0:0.00}", contaDoTitular.saldo)}");
+
+Console.ReadKey();
