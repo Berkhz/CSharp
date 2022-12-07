@@ -39,7 +39,7 @@ namespace bytebank
             }
             else
             {
-                this.Sacar (valor);
+                this.Sacar(valor);
                 destino.Depositar(valor);
                 return true;
             }
