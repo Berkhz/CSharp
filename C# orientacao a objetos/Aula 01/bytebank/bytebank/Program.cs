@@ -41,7 +41,10 @@ Console.WriteLine("Saldo da conta do(a) " + contaDaMarilsa.titular + " = " + con
 
 contaDoTitular.Transferir(100, contaDaMarilsa);
 
-Console.WriteLine("Saldo da conta do(a) " + contaDaMarilsa.titular + " pós transferência = " + contaDaMarilsa);
+Console.WriteLine("Saldo da conta do(a) " + contaDaMarilsa.titular + " pós transferência = " + contaDaMarilsa.saldo);
+
+Console.WriteLine();
+
 Console.WriteLine($"Titular da conta: {contaDaMarilsa.titular}");
 Console.WriteLine($"Número da conta: {contaDaMarilsa.conta}");
 Console.WriteLine($"Agência: {contaDaMarilsa.numero_agencia}");
