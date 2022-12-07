@@ -21,3 +21,10 @@ C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objeto
 C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
 C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
 C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\kauan\Documents\Design Kauan\VS Code\cursoCSharp\C# orientacao a objetos\Aula 01\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll

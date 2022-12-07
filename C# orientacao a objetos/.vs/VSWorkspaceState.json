@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\Aula 01",
+    "\\Aula 01\\bytebank",
+    "\\Aula 01\\bytebank\\bytebank"
+  ],
+  "SelectedNode": "\\Aula 01\\bytebank\\bytebank\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

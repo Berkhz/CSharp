@@ -4,6 +4,9 @@ ContaCorrente contaDoTitular = new ContaCorrente();
 contaDoTitular.titular = "Guilherme Felipe Henrique Pontes";
 contaDoTitular.numero_agencia = 15;
 contaDoTitular.conta = "1010-X";
+contaDoTitular.titular = "Kauan Henrique Bertalha";
+contaDoTitular.numero_agencia = 01;
+contaDoTitular.conta = "1010-1";
 contaDoTitular.saldo = 774.06;
 
 Console.WriteLine("Saldo da conta do " + contaDoTitular.titular + " = " + contaDoTitular.saldo);
