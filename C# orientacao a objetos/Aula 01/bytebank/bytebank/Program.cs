@@ -50,4 +50,10 @@ Console.WriteLine($"Número da conta: {contaDaMarilsa.conta}");
 Console.WriteLine($"Agência: {contaDaMarilsa.numero_agencia}");
 Console.WriteLine($"Saldo R$ {String.Format("{0:0.00}", contaDaMarilsa.saldo)}");
 
+ContaCorrente contaDoSidinei = new ContaCorrente();
+Console.WriteLine(contaDoSidinei.titular);
+Console.WriteLine(contaDoSidinei.saldo);
+Console.WriteLine(contaDoSidinei.numero_agencia);
+Console.WriteLine(contaDoSidinei.conta);
+
 Console.ReadKey();
