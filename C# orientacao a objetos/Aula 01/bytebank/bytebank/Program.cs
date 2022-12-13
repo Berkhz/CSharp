@@ -1,4 +1,5 @@
-﻿using bytebank;
+﻿using bytebank.Contas;
+using bytebank.Titular;
 
 //ContaCorrente contaDoTitular = new ContaCorrente();
 //contaDoTitular.titular = "Kauan Henrique Bertalha";
@@ -61,7 +62,7 @@ cliente.nome = "Kauan Henrique Bertalha";
 cliente.cpf = "13302153970";
 cliente.profissao = "Auxiliar Administrativo";
 
-ContaCorrente conta = new ContaCorrente();
+ContaCorrente conta = new ContaCorrente(); // Object
 conta.titular = cliente;
 conta.conta = "1010-X";
 conta.numero_agencia = 1;

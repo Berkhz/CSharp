@@ -1,10 +1,11 @@
-﻿using System;
+﻿using bytebank.Titular;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bytebank
+namespace bytebank.Contas
 {
     public class ContaCorrente
     {
@@ -16,17 +17,17 @@ namespace bytebank
 
         public void Depositar(double valor)
         {
-            this.saldo += valor;
+            saldo += valor;
         }
 
         public bool Sacar(double valor)
         {
-            if (valor <= this.saldo)
+            if (valor <= saldo)
             {
-                this.saldo -= valor;
+                saldo -= valor;
                 return true;
             }
-            else 
+            else
             {
                 return false;
             }
