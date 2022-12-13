@@ -68,11 +68,24 @@ conta.conta = "1010-X";
 conta.numero_agencia = 1;
 conta.saldo = 100;
 
-Console.WriteLine("Titular = " + conta.titular.nome);
+Console.WriteLine("Titular = " + conta.titular.nome); 
 Console.WriteLine("CPF = " + conta.titular.cpf);
 Console.WriteLine("Profissão = " + conta.titular.profissao);
 Console.WriteLine("N° Conta = " + conta.conta);
 Console.WriteLine("Saldo = R$" + conta.saldo);
 Console.WriteLine("N° Agência = " + conta.numero_agencia);
+
+ContaCorrente conta2 = new ContaCorrente();
+conta2.titular = new Cliente();
+conta2.titular.nome = "Marilsa de Miranda Costa";
+conta2.titular.profissao = "Empresária";
+conta2.titular.cpf = "04235656996";
+conta2.conta = "9999-X";
+conta2.numero_agencia = 18;
+conta2.saldo = 500;
+
+Console.WriteLine(conta2.titular.nome);
+
+
 
 Console.ReadKey();
