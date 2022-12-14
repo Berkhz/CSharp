@@ -89,7 +89,7 @@ using bytebank.Titular;
 //Console.WriteLine(conta2.titular.nome);
 
 ContaCorrente conta3 = new ContaCorrente();
-conta3.DefinirSaldo(-10);
-Console.WriteLine(conta3.ObterSaldo());
+conta3.SetSaldo(200);
+Console.WriteLine(conta3.GetSaldo());
 
 Console.ReadKey();

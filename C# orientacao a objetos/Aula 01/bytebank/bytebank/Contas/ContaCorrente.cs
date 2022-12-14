@@ -51,7 +51,7 @@ namespace bytebank.Contas
             }
         }
 
-        public void DefinirSaldo(double valor)
+        public void SetSaldo(double valor)
         {
             if(valor < 0)
             {
@@ -63,7 +63,7 @@ namespace bytebank.Contas
             }
         }
 
-        public double ObterSaldo()
+        public double GetSaldo()
         {
             return this.saldo;
         }
