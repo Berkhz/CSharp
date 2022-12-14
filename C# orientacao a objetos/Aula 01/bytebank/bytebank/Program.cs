@@ -75,6 +75,8 @@ Console.WriteLine("N° Conta = " + conta.conta);
 Console.WriteLine("Saldo = R$" + conta.saldo);
 Console.WriteLine("N° Agência = " + conta.numero_agencia);
 
+Console.WriteLine();
+        
 ContaCorrente conta2 = new ContaCorrente();
 conta2.titular = new Cliente();
 conta2.titular.nome = "Marilsa de Miranda Costa";
