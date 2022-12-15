@@ -22,7 +22,7 @@ namespace bytebank.Contas
         }
 
         //private string conta;
-        private string Conta { get; set; }
+        public string Conta { get; set; }
 
         private double saldo = 100;
 
