@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\bin\Debug\net6.0\Lógica de Programação CSharp.exe
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\bin\Debug\net6.0\Lógica de Programação CSharp.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\bin\Debug\net6.0\Lógica de Programação CSharp.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\bin\Debug\net6.0\Lógica de Programação CSharp.dll
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\bin\Debug\net6.0\Lógica de Programação CSharp.pdb
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.dll
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\refint\Lógica de Programação CSharp.dll
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.pdb
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\Lógica de Programação CSharp.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\LogicaProgramacaoC#\Lógica de Programação CSharp\Lógica de Programação CSharp\obj\Debug\net6.0\ref\Lógica de Programação CSharp.dll
