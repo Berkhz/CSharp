@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C# orientacao a objetos",
-    "\\C# orientacao a objetos\\Aula 01",
-    "\\C# orientacao a objetos\\Aula 01\\bytebank",
-    "\\C# orientacao a objetos\\Aula 01\\bytebank\\bytebank"
+    "\\C# criando e distribuindo bibliotecas em .NET",
+    "\\C# criando e distribuindo bibliotecas em .NET\\curso_bibliotecas-Aula01",
+    "\\C# criando e distribuindo bibliotecas em .NET\\curso_bibliotecas-Aula01\\bytebank_ATENDIMENTO"
   ],
-  "SelectedNode": "\\C# orientacao a objetos\\Aula 01\\bytebank\\bytebank\\EstoqueSupermercado.cs",
+  "SelectedNode": "\\C# criando e distribuindo bibliotecas em .NET\\curso_bibliotecas-Aula01\\bytebank_ATENDIMENTO\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
