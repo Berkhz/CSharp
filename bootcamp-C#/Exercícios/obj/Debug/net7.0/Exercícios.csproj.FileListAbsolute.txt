@@ -1,0 +1,15 @@
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.csproj.AssemblyReference.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.AssemblyInfoInputs.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.AssemblyInfo.cs
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\bin\Debug\net7.0\Exercícios.exe
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\bin\Debug\net7.0\Exercícios.deps.json
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\bin\Debug\net7.0\Exercícios.runtimeconfig.json
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\bin\Debug\net7.0\Exercícios.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\bin\Debug\net7.0\Exercícios.pdb
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\refint\Exercícios.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.pdb
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\Exercícios.genruntimeconfig.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\Exercícios\obj\Debug\net7.0\ref\Exercícios.dll
