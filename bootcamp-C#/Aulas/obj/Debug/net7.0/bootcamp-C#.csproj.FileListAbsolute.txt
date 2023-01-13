@@ -1,0 +1,15 @@
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\bin\Debug\net7.0\bootcamp-C#.exe
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\bin\Debug\net7.0\bootcamp-C#.deps.json
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\bin\Debug\net7.0\bootcamp-C#.runtimeconfig.json
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\bin\Debug\net7.0\bootcamp-C#.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\bin\Debug\net7.0\bootcamp-C#.pdb
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.csproj.AssemblyReference.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.AssemblyInfoInputs.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.AssemblyInfo.cs
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.csproj.CoreCompileInputs.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\refint\bootcamp-C#.dll
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.pdb
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\bootcamp-C#.genruntimeconfig.cache
+C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\obj\Debug\net7.0\ref\bootcamp-C#.dll
