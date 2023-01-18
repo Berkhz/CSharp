@@ -65,7 +65,7 @@
 //     Console.WriteLine("Vou pedalar outro dia");
 // }
 
-// Exercício 5 - Estruturas de repetição
+// Exercício 5 - Estruturas de repetição for
 // Console.WriteLine("Digite um número:");
 // int numero = int.Parse(Console.ReadLine());
 
@@ -73,3 +73,77 @@
 // {
 //     Console.WriteLine(numero + " X " + contador + " = " + numero * contador);
 // }
+
+// Exercício 6 - Estruturas de repetição while
+// int numero = 0;
+// int soma = 0;
+
+// Console.WriteLine("Digite uma sequência de números e aperte enter (0 para sair)");
+// numero = int.Parse(Console.ReadLine());
+
+// while(numero != 0)
+// {
+//     soma = soma + numero;
+//     numero = int.Parse(Console.ReadLine());
+// }
+
+// Console.WriteLine("A soma dos números é:" + soma);
+
+// Exercício 7 - Estruturas de repetição do while
+// int numero = 0;
+// int soma = 0;
+
+// Console.WriteLine("Digite uma sequência de números e aperte enter (0 para sair)");
+
+// do
+// {
+//     numero = int.Parse(Console.ReadLine());
+//     soma = soma + numero;
+// } while(numero != 0);
+
+// Console.WriteLine("A soma dos números é:" + soma);
+
+// Exercício 8 - Operadores aritméticos
+// int numero1 = 0;
+// int numero2 = 0;
+// int resultado = 0;
+// string operador;
+
+// Console.WriteLine("Digite o 1° número:");
+// numero1 = int.Parse(Console.ReadLine());
+
+// Console.WriteLine("Digite o 2° número:");
+// numero2 = int.Parse(Console.ReadLine());    
+
+// Console.WriteLine(@"Digite a operação
+// (+) - Adição
+// (-) - Subtração
+// (*) - Multiplicação
+// (/) - Divisão");
+
+// operador = Console.ReadLine();
+
+// switch(operador)
+// {
+//     case "+":
+//     resultado = numero1 + numero2;
+//     break;
+
+//     case "-":
+//     resultado = numero1 - numero2;
+//     break;
+
+//     case "*":
+//     resultado = numero1 * numero2;
+//     break;
+
+//     case "/":
+//     resultado = numero1 / numero2;
+//     break;
+
+//     default:
+//     Console.WriteLine("Opção inválida");
+//     break;
+// }
+
+// Console.WriteLine(numero1 + " " + operador + " " + numero2 + " " + " = " + resultado);
