@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kauan.bertalha\\.nuget\\packages\\": {}
+    "C:\\Users\\kauan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\Lógica de Programação CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\Lógica de Programação CSharp.csproj",
       "projectName": "Lógica de Programação CSharp",
-      "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\Lógica de Programação CSharp.csproj",
-      "packagesPath": "C:\\Users\\kauan.bertalha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\obj\\",
+      "projectPath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\Lógica de Programação CSharp.csproj",
+      "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kauan.bertalha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

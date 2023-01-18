@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\desafio1.csproj": {}
+    "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\desafio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\desafio1.csproj": {
+    "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\desafio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
         "projectName": "desafio1",
-        "projectPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
-        "packagesPath": "C:\\Users\\kauan.bertalha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\obj\\",
+        "projectPath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
+        "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kauan.bertalha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

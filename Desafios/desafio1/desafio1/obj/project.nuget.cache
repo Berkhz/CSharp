@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AlfJmgmhqcfPu/F7vYZ2Rwe9T3Z1lqmQN6qUj9aPrvzBKzmKa31qXgSXkRJG+fgkX7/YEDgF6nAOUTXfnpBkZg==",
+  "dgSpecHash": "RQm1C81XAf9yzroRIksUGvHTaf/Z3lfPxnOFk3o7LomkmMljHAgdFiJte3FbN6jPG64FbEJfeWr9E9pjutTIQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kauan.bertalha\\source\\repos\\curso\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\Desafios\\desafio1\\desafio1\\desafio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
