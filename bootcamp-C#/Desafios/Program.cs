@@ -1,8 +1,8 @@
 ﻿int contadora = 0;
-int resultado = 0;
-int notas = 0;
+double resultado = 0;
+double notas = 0;
 int quantidadeNotas = 0;
-int media = 0;
+double media = 0;
 int verificacao = 0;
 string professor = " ";
 
@@ -26,7 +26,7 @@ while(quantidadeNotas != 0)
 {
     contadora = contadora + 1;
     Console.WriteLine("Me informe a " + contadora + "° nota: ");
-    notas = int.Parse(Console.ReadLine());
+    notas = double.Parse(Console.ReadLine());
     resultado = resultado + notas;
     quantidadeNotas = quantidadeNotas - 1;
 }
