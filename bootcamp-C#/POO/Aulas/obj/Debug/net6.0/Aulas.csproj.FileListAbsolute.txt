@@ -1,0 +1,15 @@
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\bin\Debug\net6.0\Aulas.exe
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\bin\Debug\net6.0\Aulas.deps.json
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\bin\Debug\net6.0\Aulas.dll
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\bin\Debug\net6.0\Aulas.pdb
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.dll
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.pdb
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+C:\Users\kauan.bertalha\source\repos\curso\bootcamp-C#\poo\Aulas\obj\Debug\net6.0\ref\Aulas.dll
