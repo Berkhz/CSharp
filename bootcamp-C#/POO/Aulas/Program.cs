@@ -1,10 +1,17 @@
 ﻿using Aulas.Models;
 
 Aluno a1 = new Aluno();
-a1.Nome = "Kauan";
-a1.Idade = 19;
+a1.Nome = "Eduardo";
+a1.Idade = 20;
 a1.Nota = 10;
 a1.Apresentar();
+
+// Exemplo Aula 4
+// Aluno a1 = new Aluno();
+// a1.Nome = "Kauan";
+// a1.Idade = 19;
+// a1.Nota = 10;
+// a1.Apresentar();
 
 // Exemplo Aula 3
 // ContaCorrente cc = new ContaCorrente(50);
