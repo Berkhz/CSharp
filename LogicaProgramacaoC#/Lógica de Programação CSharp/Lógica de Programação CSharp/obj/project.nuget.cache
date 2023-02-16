@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6BFku9N+wFGGVR3lNRK1MrqqYfC3jKvS9OI6PfeZ+Ym/5XpIYUHZmuFfg6QInOr5KdClIEVZl0w8pzBkzMBqw==",
+  "dgSpecHash": "SQQNfEZEMwAw3UVocmLS4DPDoo3Rtbek/gUIjyJO32GvepIPXw/7fARbjpmfaFKW4CyayHAM7X85lCUpeEXz5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\kauan\\GitHub\\cursoCSharp\\LogicaProgramacaoC#\\Lógica de Programação CSharp\\Lógica de Programação CSharp\\Lógica de Programação CSharp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
