@@ -1,19 +1,19 @@
 ﻿using bytebank.Modelos.ADM.Funcionarios;
 using bytebank_ATENDIMENTO.bytebank.Atendimento;
-using bytebank_GeradorChavePix;
+//using bytebank_GeradorChavePix;
 using bytebank_Modelos.bytebank.Modelos.ADM.Utilitario;
 
 Console.WriteLine("Boas Vindas ao ByteBank, Atendimento.");
 //new ByteBankAtendimento().AtendimentoCliente();
 
-Console.WriteLine(GeradorPix.GetChavePix());
+//Console.WriteLine(GeradorPix.GetChavePix());
 
-var listaDeChaves = GeradorPix.GetChavesPix(10);
+//var listaDeChaves = GeradorPix.GetChavesPix(10);
 
-foreach (var chave in listaDeChaves)
-{
-    Console.WriteLine(chave);
-}
+//foreach (var chave in listaDeChaves)
+//{
+//    Console.WriteLine(chave);
+//}
 
 public class Estagiario : Funcionario
 {
