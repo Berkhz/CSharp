@@ -31,3 +31,13 @@ C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\sistema-vendas\obj\Debug\net7.0\re
 C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\sistema-vendas\obj\Debug\net7.0\sistema-vendas.pdb
 C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\sistema-vendas\obj\Debug\net7.0\sistema-vendas.genruntimeconfig.cache
 C:\Users\kauan\GitHub\cursoCSharp\bootcamp-C#\sistema-vendas\obj\Debug\net7.0\ref\sistema-vendas.dll
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.csproj.AssemblyReference.cache
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.AssemblyInfoInputs.cache
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.AssemblyInfo.cs
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.csproj.CoreCompileInputs.cache
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.dll
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\refint\sistema-vendas.dll
+C:\Users\kauan\GitHub\CSharp\Ti Academy\SistemaVendas\obj\Debug\net7.0\sistema-vendas.pdb
