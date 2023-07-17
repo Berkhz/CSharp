@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cr3iM98LAfkodAfKpfjX03lsOLOzcZMaC+A0lDhgdrWo74k/iAqbCyltSgFA+XYFzf9CmQMPMvSn1rRrXzqdvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kauan\\GitHub\\CSharp\\Udemy\\LogicaCsharp\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\kauan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
